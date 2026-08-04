@@ -59,7 +59,7 @@ deploy, monitor, and scale production systems.
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -72,7 +72,6 @@ deploy, monitor, and scale production systems.
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ## 📊 Monitoring & Observability
@@ -126,21 +125,6 @@ Exploring production-style application deployment workflows.
 - Platform Engineering
 - Infrastructure as Code
 - Production Reliability Engineering
-
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Puvishh&theme=react&hide_border=false&include_all_commits=true&count_private=true">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puvishh&theme=react&hide_border=false&layout=compact">
-
-</p>
 
 
 ---
